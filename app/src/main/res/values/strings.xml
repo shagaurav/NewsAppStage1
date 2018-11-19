@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp Stage 1</string>
+
+    <string name="app_short_name">NA!</string>
+
+    <!-- Content description for Image in the activity_main-->
+    <string name="content_description">Image View for splash screen</string>
+
+    <!-- Content description for Image in the activity_main-->
+    <string name="written">Written by:</string>
+
+    <string name="interneterrormessages">No internet connection!\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+    <string name="contneterrormessages">No news found!\nbecause you lose Internet connection\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+</resources>
